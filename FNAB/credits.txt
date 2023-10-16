@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+                                 Credits
+------------------------------------------------------------------------------
+
+1. Pygame Library:
+   - Pygame is used for creating the graphical user interface.
+   - Pygame is released under the LGPL (Lesser General Public License) or GPL (General Public License).
+   - Official Pygame website: https://www.pygame.org/
+
+2. OpenCV (cv2) Library:
+   - OpenCV is used for image processing and face/body detection.
+   - OpenCV is released under the Apache License, Version 2.0.
+   - Official OpenCV website: https://opencv.org/
+
+3. MSS (Python Screen Capture) Library:
+   - MSS is used for capturing screen portions.
+   - MSS is released under the MIT License.
+
+4. Win32API and Win32GUI:
+   - Used for handling Windows-specific operations.
+   - No additional licensing requirements.
+
+5. Haar Cascade Classifiers:
+   - Face and body classifiers are part of OpenCV.
+   - Covered by the OpenCV license mentioned above.
+
+------------------------------------------------------------------------------
